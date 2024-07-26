@@ -48,12 +48,14 @@ This should display the version information of ffmpeg. If it doesn't, it means t
 
 Instructions for use:
 
-1. Select file to convert (pdf only at the moment)
-2. Set word per minute speed.
-3. Set Farnsworth speed(optional, leave set to 0 to disable)
-4. set tone frequency
-5. Click convert button, name file, choose location and click save.
-6. Please be patient while your mp3 is created
+1. Open terminal, type this and modify the path to the file: python3 /PATH/TO/text2CW.py
+2. Press return or enter
+3. Select file to convert (pdf only at the moment)
+4. Set word per minute speed.
+5. Set Farnsworth speed(optional, leave set to 0 to disable)
+6. set tone frequency
+7. Click convert button, name file, choose location and click save.
+8. Please be patient while your mp3 is created
 
 
 Future revisions will see the ability to:
