@@ -1,5 +1,5 @@
 # Text2CWaudio
-Converts a text file into CW and saves as an mp3
+Converts a text file into CW and saves as an mp3 file for playback.
 
 
 There are a couple of dependancies that can be resolved following the steps below.
@@ -44,3 +44,19 @@ ffmpeg -version
 
 This should display the version information of ffmpeg. If it doesn't, it means the ffmpeg executable is not in your system's PATH.
 
+
+
+Instructions for use:
+
+1. Select file to convert (pdf only at the moment)
+2. Set word per minute speed.
+3. Set Farnsworth speed(optional, leave set to 0 to disable)
+4. set tone frequency
+5. Click convert button, name file, choose location and click save.
+6. Please be patient while your mp3 is created
+
+
+Future revisions will see the ability to:
+
+1. open differnt file types
+2. save as different audio file types
