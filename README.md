@@ -62,3 +62,5 @@ Future revisions will see the ability to:
 
 1. open differnt file types
 2. save as different audio file types
+coming soon in next update, open .wav audio files for converting to
+cw
